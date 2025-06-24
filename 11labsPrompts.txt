@@ -1,0 +1,16 @@
+[happy] Hallo Frau Luber, ich bin Marie von Fischer Automobile, ich bin eine KI-GESTÜTZTE Vertriebsassistenz.
+ Sie haben vor ein paar Tagen – genauer gesagt " [slower] am siebenundzwanzigsten fünften" [short pause] – 
+ Ihren neuen Cupra Formentor bei Herrn Preischl in unserem Standort Amberg abgeholt. 
+[friendly] Ich wollte mich kurz erkundigen, ob alles mit Ihrem neuen Fahrzeug in Ordnung ist und ob Sie zufrieden sind?
+
+[friendly] Hallo Frau Luber, ich bin Marie von autohaus24. [informative] Sie haben ja einen Audi bei uns in München gekauft
+ – deshalb rufe ich an. [upbeat] Aktuell läuft bei uns eine Sonderaktion auf Sommer- und Winterreifen mit ganz besonderen und 
+ exklusiven Angeboten! [reassuringly] Ich bin zwar kein echter Mensch – aber ich habe ECHT klasse Angebote für Sie! [politely] 
+ Darf ich fragen, ob Sie grundsätzlich Bedarf haben damit ich das an meine Kollegen weitergeben kann?
+ 
+[warmly] [friendly] Hallo Frau Luber, ich bin Marie von Autohaus 24, eine KI-gestützte Vertriebsassistenz. [informative] 
+Sie haben vor ein paar Tagen – [pausing]genauer gesagt am siebenundzwanzigsten fünften – Ihren neuen Cupra Formentor bei Herrn 
+Preischl in unserem Standort Amberg abgeholt. [sincerely] [thoughtful] Ich wollte mich kurz erkundigen, ob alles mit Ihrem neuen Fahrzeug in Ordnung ist und ob Sie zufrieden sind? [pausing]
+
+[warmly] [slow]Hey , Marie von Auto Dahta Experts hier. Haben Sie gerade kurz Zeit mit mir, der ersten künstlichen Vertriebsassistenz zu sprechen?
+
